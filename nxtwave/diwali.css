@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
+
+.diwali-background{
+    margin: 0px;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png);
+    /* height: 50vh; */
+    width: 100%;
+    background-size: cover;
+}
+.diwali-wished{
+    color: white;
+    font-size: 50px;
+    padding-top: 300px;
+    font-family: "Playpen Sans", cursive;
+}
+
+.diwali-box{
+    text-align: center;
+}
+
+.diwali-box{
+    
+    background-color: white;
+    border-radius: 10px;
+    border-color: none;
+    width: 100%;
+    border: 1px solid wheat;
+    
+
+}
+.wholepage{
+    background-color: skyblue;
+
+}
+
+.buttonn{
+    width: 100px;
+    border-radius: 25px;
+    background-color: palevioletred;
+
+}
+
+.diwali-box:hover {
+    border: 3px solid pink;
+    transform: scale(1.05);
+}
+
+.buttonn:hover {
+    border: 10px solid palevioletred;
+    transform: scale(1.05);
+}
