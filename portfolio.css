@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.myportfolio{
+    background-image: url(https://img.freepik.com/free-photo/brown-concrete-wall-with-scratches_53876-129736.jpg?w=1060&t=st=1726485226~exp=1726485826~hmac=28c36102723ebcdb1f7e82a27e4cfe4e4ea51bb2aec25d337f059366a293284d);
+        background-size: cover
+}
+.navbar-brand img{
+    height: 80px;
+    width: 80px;
+    
+
+}
+.item-nav{
+    color: white;
+}
+.item-nav:hover{
+    color: greenyellow;
+}
+  
+.anchor{
+    font-family: "Oswald";
+    margin-left: auto;
+}  
+.container{
+    color: aliceblue;
+    text-align: center;
+    padding: 0px
+}
+.blog-headding{
+    color: wheat;
+    padding-bottom: 70px    ;
+}
+.profile-body{
+    height: 80vh;
+    padding-bottom: 60px;
+}
+.box-right{
+    font-family: "Playwrite CU", cursive;
+    text-align: left;
+    padding-right: 100px;
+}
+.box-left{
+    padding-left: 120px;
+}
+
+.contacts img{
+    height: 30px;
+    width: auto;
+
+}
+.button1{
+    background-color: wheat;
+    border: none;
+  color: rgba(49, 23, 3, 0.805);
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+    border-radius: 8px
+}
+
+.cricket-pic{
+    width:500px;
+    height: 300px;
+}
+
+.badminton-pic{
+    width:500px;
+    height: 300px;
+
+}
+
+.col-6-box{
+    border: 2px solid wheat;
+}
+.game-card{
+    border: 10px solid wheat;
+    border-radius: 5px;
+    
+}
+
+.game-card:hover {
+    border: 10px solid wheat;
+    transform: scale(1.05);
+}
